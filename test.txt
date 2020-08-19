@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is totally new line. But this is good.
+=======
+this is totally new line. But i like it. ADDED FROM NEWFEATURE.
+>>>>>>> newfeature
 
 previous was wrong.
