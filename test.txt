@@ -8,3 +8,6 @@ More chnages.
 Even more changes.
 123456
 Some more changes.
+
+
+Added changes before rebasing.
