@@ -1,4 +1,4 @@
-this is totally new line. But i like it. ADDED FROM NEWFEATURE.
+this is totally new line. But i like it. Changed FROM NEWFEATURE.
 
 previous was wrong.
 
